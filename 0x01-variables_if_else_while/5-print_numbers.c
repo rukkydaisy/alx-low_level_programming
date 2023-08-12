@@ -5,7 +5,7 @@
  */
 int main(void)
 {
-	int zero = 0;
+	char zero = '0';
 
 	while (zero <= '9')
 	{

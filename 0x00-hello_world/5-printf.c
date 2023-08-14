@@ -2,7 +2,7 @@
 /**
  * main - This program prints a line with the printf function
  *
- * return: always 0
+ * Return: always 0
  *
  */
 

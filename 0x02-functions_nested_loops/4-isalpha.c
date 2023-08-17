@@ -2,11 +2,11 @@
 /*
  *_isalpha: - Entry point
  *
- * @c: returns as decscribed
-
+ * @c: Collects values
+ *
  * Description: This function checks for alphabetic character
  *
- * Return: returns 1 is c is a letter and returns 0 otherrwise
+ * Return: Returns 1 is c is a letter and returns 0 otherrwise
  *
  */
 

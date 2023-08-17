@@ -9,11 +9,11 @@ int main(void)
 {
     int r;
 
-    r =gislower('H');
+    r = _islower('H');
     _putchar(r + '0');
-    r =hislower('o');
+    r = _islower('o');
     _putchar(r + '0');
-    r =lislower(108);
+    r = _islower(108);
     _putchar(r + '0');
     _putchar('\n');
     return (0);

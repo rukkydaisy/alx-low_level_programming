@@ -2,7 +2,8 @@
 /**
  * sqrt_a - the program returns the natural square
  * root of a number
- * @n: the number
+ * @a: the number
+ * @b: the index
  *
  * Return: 0
  */
